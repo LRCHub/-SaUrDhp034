@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "見つめていたい",
+  "base_artist": "ポリス",
+  "createdAt": "2026-03-16T03:10:28.191421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "見つめていたい",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/01_見つめていたい_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "見つめていたい",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/02_見つめていたい_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "見つめていたい",
+      "artist": "hiro",
+      "has_synced": false,
+      "path": "select/03_見つめていたい_hiro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "見つめていたい",
+      "artist": "alan",
+      "has_synced": true,
+      "path": "select/04_見つめていたい_alan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "見つめていたい(DJ Hasebe remix PART1)",
+      "artist": "hiro",
+      "has_synced": false,
+      "path": "select/05_見つめていたい(DJ_Hasebe_remix_PART1)_hiro.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "見つめていたい(DJ Hasebe remix PART-1)",
+      "artist": "hiro",
+      "has_synced": false,
+      "path": "select/06_見つめていたい(DJ_Hasebe_remix_PART-1)_hiro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "見つめていたい (Remastered)",
+      "artist": "The Police",
+      "has_synced": false,
+      "path": "select/pl_01_見つめていたい_(Remastered)_The_Police.txt"
+    }
+  ]
+}
